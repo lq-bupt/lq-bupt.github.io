@@ -3,7 +3,7 @@
 title: 李晴
 
 # Name pronunciation (optional)
-name_pronunciation: Qing Li
+name_pronunciation: Li Qing
 
 # Full name (for SEO)
 first_name: Qing
@@ -142,12 +142,11 @@ skills:
         icon: camera
 
 languages:
-  - name: English
-    percent: 100
   - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+    percent: 100
+  - name: English
+    percent: 85
+
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -183,4 +182,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Qing Li is a Postdoctoral Researcher at Peking University, co-advised by [Prof Xuanzhe Liu](https://liuxuanzhe.com) and [Prof Chenren Xu](https://soar.group/chenren). Her research interests include cloud computing, edge computing and satellite computing. Her research has received xx award.
