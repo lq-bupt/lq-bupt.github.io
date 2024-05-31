@@ -31,20 +31,12 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'qingli.bupt@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
   - icon: brands/github
     url: https://github.com/lq-bupt
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=mmm9hZEAAAAJ
-  - icon: academicons/orcid
-    url: https://orcid.org/
 
 interests:
   - Cloud Computing
@@ -53,7 +45,7 @@ interests:
 
 education:
   - area: PhD Computer Science
-    institution: BUPT
+    institution: Beijing University of Posts and Telecommunications
     date_start: 2018-09-01
     date_end: 2022-07-01
     summary: |
@@ -84,8 +76,8 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: PostDoctoral Researcher
+    company_name: Peking University
     company_url: ''
     company_logo: ''
     date_start: 2021-01-01
@@ -93,17 +85,6 @@ work:
     summary: |2-
       Responsibilities include:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
@@ -182,4 +163,4 @@ awards:
 
 ## About Me
 
-Qing Li is a Postdoctoral Researcher at Peking University, co-advised by [Prof Xuanzhe Liu](https://liuxuanzhe.com) and [Prof Chenren Xu](https://soar.group/chenren). Her research interests include cloud computing, edge computing and satellite computing. Her research has received xx award.
+Qing Li is a Postdoctoral Researcher at Peking University, co-advised by [Prof Xuanzhe Liu](http://www.liuxuanzhe.com/) and [Prof Chenren Xu](https://soar.group/chenren). Her research interests include cloud computing, edge computing and satellite computing. Her research has received xx award.
