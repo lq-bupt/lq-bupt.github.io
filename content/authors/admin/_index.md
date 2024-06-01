@@ -160,4 +160,4 @@ awards:
 
 ## About Me
 
-Qing Li is a Postdoctoral Researcher at Peking University, co-advised by [Prof Xuanzhe Liu](http://www.liuxuanzhe.com/) and [Prof Chenren Xu](https://soar.group/chenren). Her research interests include cloud computing, edge computing and satellite computing. Her research has received xx award.
+Qing Li is a Postdoctoral Researcher at Peking University, co-advised by [Prof Xuanzhe Liu](http://www.liuxuanzhe.com/) and [Prof Chenren Xu](https://soar.group/chenren). Her research interests include cloud computing, edge computing and satellite computing. Her research has received IEEE ICSOC’23 Best Paper Award, IEEE Edge’21 Best Paper Award and BUPT Excellent Doctor Thesis Award.
