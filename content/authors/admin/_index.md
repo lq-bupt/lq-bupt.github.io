@@ -87,16 +87,9 @@ work:
 awards:
   - title: IEEE ICSOC’23 Conference Distinguished Paper Award
     awarder: IEEE
-  - title: Blockchain Fundamentals
+  - title:  IEEE EDGE 2021 Conference Best Paper Award 
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
-    summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
+    awarder: IEEE
 
 ---
 
