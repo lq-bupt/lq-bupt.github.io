@@ -20,11 +20,11 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: PostDoc Researcher
+role: Associate Professor
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: EECS@PKU
+  - name: EECS@BUPT
     url: https://teacher.bupt.edu.cn/liqing4/zh_CN/
 
 # Social network links
@@ -39,9 +39,9 @@ profiles:
     url: https://scholar.google.com/citations?user=mmm9hZEAAAAJ
 
 interests:
-  - Cloud Computing
+  -Satellite Computing & Networking
   - Edge Computing
-  - Satellite Computing & Networking
+  
 
 education:
   - area: Ph.D. Computer Science
@@ -76,12 +76,18 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
+  - position: Associate Professor
+    company_name: Beijing University of Posts and Telecommunications
+    company_url: ''
+    company_logo: ''
+    date_start: 2024-07-10
+    date_end: ''
   - position: Postdoctoral Researcher
     company_name: Peking University
     company_url: ''
     company_logo: ''
     date_start: 2022-09-01
-    date_end: ''
+    date_end: '2024-07-01'
     summary: |2-
       Responsibilities include:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
