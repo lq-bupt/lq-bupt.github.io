@@ -31,7 +31,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'qingli.bupt@gmail.com'
+    url: 'qingli@bupt.edu.cn'
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/lq-bupt
