@@ -39,7 +39,7 @@ profiles:
     url: https://scholar.google.com/citations?user=mmm9hZEAAAAJ
 
 interests:
-  -Satellite Computing & Networking
+  - Satellite Computing & Networking
   - Edge Computing
   
 
