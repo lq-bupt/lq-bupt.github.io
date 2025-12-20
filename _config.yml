@@ -23,7 +23,7 @@ repository               : "lq-bupt/lq-bupt.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpeg"
+  avatar           : "profile.png"
   name             : "Qing Li"
   pronouns         : # example: "she/her"  
   bio              : "Associate Professor"
