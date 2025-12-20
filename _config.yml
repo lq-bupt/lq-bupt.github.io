@@ -26,11 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Qing Li"
   pronouns         : # example: "she/her"  
-  bio              : |
-  Associate Professor
-  State Key Laboratory of Networking and Switching Technology 
-  Computer Science Department
-  Beijing University of Posts and Telecommunications (BUPT)
+  bio              : "Associate Professor, Doctoral Advisor<br>State Key Laboratory of Networking and Switching Technology<br>Computer Science Department<br>Beijing University of Posts and Telecommunications (BUPT)"
   location         : 
   employer         : 
   uri              : # URL
