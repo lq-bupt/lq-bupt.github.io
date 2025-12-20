@@ -26,22 +26,26 @@ author:
   avatar           : "profile.png"
   name             : "Qing Li"
   pronouns         : # example: "she/her"  
-  bio              : "Associate Professor"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : |
+  Associate Professor
+  State Key Laboratory of Networking and Switching Technology 
+  Computer Science Department
+  Beijing University of Posts and Telecommunications (BUPT)
+  location         : 
+  employer         : 
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "qingli@bupt.edu.cn" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=mmm9hZEAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : 
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
@@ -51,13 +55,13 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : 
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : 
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -84,12 +88,12 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  books:
-    title: 'Books'
-  manuscripts:
-    title: 'Journal Articles'    
-  conferences:
-    title: 'Conference Papers'
+  # books:
+  #   title: 'Books'
+  # manuscripts:
+  #   title: 'Journal Articles'    
+  # conferences:
+  #   title: 'Conference Papers'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
