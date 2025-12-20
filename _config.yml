@@ -27,10 +27,10 @@ author:
   name             : "Qing Li"
   pronouns         : # example: "she/her"  
   bio              : "Associate Professor, Doctoral Advisor<br>State Key Laboratory of Networking and Switching Technology<br>Computer Science Department<br>Beijing University of Posts and Telecommunications (BUPT)"
-  location         : 
+  location         : "Haidian District, Beijing, P.R.China, 100876"
   employer         : 
   uri              : # URL
-  email            : "qingli@bupt.edu.cn" 
+  email            : "**Email:** qingli@bupt.edu.cn" 
 
   # Academic websites
   academia         : # URL
