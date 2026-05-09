@@ -23,17 +23,43 @@ She has received the Best Paper award at IEEE EDGE 2021 and the Distinguished Pa
 
 # Publications
 
-## Selected Publications
+## Representative Publications
 
-1. **Paper Title Here**  
-   Author A, Author B, **Qing Li**.  
-   *Conference / Journal Name*, 2025.  
-   [[PDF](/files/paper1.pdf)] [[Code](https://github.com/yourname/project)] [[DOI](https://doi.org/xxxxx)]
+1. **Battery-Aware Energy Optimization for Satellite Edge Computing**  
+   **Q. Li**, S. Wang, X. Ma, A. Zhou, Y. Wang, G. Huang, and X. Liu.  
+   *IEEE Transactions on Services Computing (IEEE TSC)*, 2024.  
+   **CCF A, Best Paper Award**  
+   [[Page](https://www.computer.org/csdl/journal/sc/2024/02/10415570/1U6HJLYwSPK){:target="_blank"}]
+   [[DOI](https://doi.org/10.1109/TSC.2024.3359233){:target="_blank"}]
 
-2. **Another Paper Title Here**  
-   **Qing Li**, Author C, Author D.  
-   *IEEE EDGE*, 2021.  
-   [[PDF](/files/paper2.pdf)] [[BibTeX](#)]
+2. **Exploring Real-Time Satellite Computing: From Energy and Thermal Perspectives**  
+   **Q. Li**, S. Wang, C. Xu, X. Ma, M. Xu, A. Zhou, R. Xing, B. Yang, Z. Zhu, Y. Zhang, and X. Liu.  
+   *IEEE Real-Time Systems Symposium (RTSS)*, 2024.  
+   **CCF A**  
+   [[Page](https://www.computer.org/csdl/proceedings-article/rtss/2024/402600a161/23GCdTeppO8){:target="_blank"}]
+   [[RTSS](https://2024.rtss.org/accepted-papers/index.html){:target="_blank"}]
+   [[DOI](https://doi.org/10.1109/RTSS62706.2024.00023){:target="_blank"}]
+
+3. **Emulating Space Computing Networks with RHONE**  
+   L. Wang*, **Q. Li***, Y. Zhou, Z. Luo, D. Zhang, S. Wang, X. Liu, and C. Xu.  
+   *USENIX Annual Technical Conference (USENIX ATC)*, 2025.  
+   **CCF A, Equal Contribution**  
+   [[Page](https://www.usenix.org/conference/atc25/presentation/wang-liying){:target="_blank"}]
+   [[PDF](https://www.usenix.org/system/files/atc25-wang-liying.pdf){:target="_blank"}]
+
+4. **From Earth to Orbit: Launch Sequence Optimization for LEO Mega-Constellations**  
+   T. Huang, **Q. Li**, C. Xu, M. Xu, S. Wang, G. Huang, and X. Liu.  
+   *IEEE Transactions on Mobile Computing (IEEE TMC)*, 2025.  
+   **CCF A, Corresponding Author**  
+   [[Page](https://www.computer.org/csdl/journal/tm/5555/01/10945678/25z0oFQ60kU){:target="_blank"}]
+   [[DOI](https://doi.org/10.1109/TMC.2025.3556227){:target="_blank"}]
+
+5. **LPG: Raise Your Location Privacy Game in Direct-to-Cell LEO Satellite Networks**  
+   Q. Shi, L. Wang, P. Gope, Q. Liang, H. Wang, Q. Liu, C. Xu, S. Wang, **Q. Li**, and B. Sikdar.  
+   *USENIX Security Symposium*, 2026.  
+   **CCF A, Corresponding Author**  
+   [[Page](https://www.usenix.org/conference/usenixsecurity26/presentation/shi){:target="_blank"}]
+   [[PDF](https://www.usenix.org/system/files/conference/usenixsecurity26/sec26_prepub_shi.pdf){:target="_blank"}]
 
 ---
 
