@@ -5,32 +5,26 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+<h2>Selected Publications</h2>
 
-{% include base_path %}
+<ol>
+  <li>
+    Q. Li, S. Wang, X. Ma, et al. Battery-Aware Energy Optimization for Satellite Edge Computing[J]. IEEE TSC, 2024. (CCF A，Best Paper Award)
+  </li>
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+  <li>
+    Q. Li, C. Xu, S. Wang, et al. “Exploring Real-Time Satellite Computing: From Energy and Thermal Perspectives,” IEEE RTSS 2024. (CCF A)
+  </li>
 
+  <li>
+    L. Wang, Q. Li, Y. Zhou, et al. "Emulating Space Computing Networks with RHONE", Usenix ATC 2025. (CCF A, 共一)
+  </li>
 
+  <li>
+    T. Huang, Q. Li, C. Xu, et al. "From Earth to Orbit: Launch Sequence Optimization for LEO Mega-Constellations", IEEE TMC, 2025. (CCF A, 通信)
+  </li>
 
+  <li>
+    Q. Shi, L. Wang, P. Gope, Q. Liang, H. Wang, Q. Liu, C. Xu, S. Wang, Q. Li, B. Sikdar, "LPG: Raise Your Location Privacy Game in Direct-to-Cell LEO Satellite Networks", Usenix Security 2026. (CCF A, 通信)
+  </li>
+</ol>
