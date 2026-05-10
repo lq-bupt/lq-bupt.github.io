@@ -16,8 +16,6 @@ Her main research interests include satellite computing system optimization and 
 
 She has received the Best Paper award at IEEE EDGE 2021 and the Distinguished Paper award at ICSOC 2023. She has also served as a reviewer for leading international journals such as IEEE TMC and ACM TIST, as well as for conferences including IEEE ICDCS 2024 and IEEE ICWS 2024.
 
----
-
 <a id="news"></a>
 
 # News
@@ -32,8 +30,6 @@ She has received the Best Paper award at IEEE EDGE 2021 and the Distinguished Pa
 - **[2023]** I was selected for the Postdoctoral Innovation Talents Support Program.
 
 <a id="publications"></a>
-
----
 
 # Publications
 {: #publications }
@@ -233,8 +229,6 @@ She has received the Best Paper award at IEEE EDGE 2021 and the Distinguished Pa
    *IEEE EDGE*, 2021.  
    [[DBLP](https://dblp.org/rec/conf/edge/WangLXMZS21)]
 
----
-
 <a id="awards"></a>
 
 # Awards
@@ -244,8 +238,6 @@ She has received the Best Paper award at IEEE EDGE 2021 and the Distinguished Pa
 - Distinguished Paper Award, ICSOC 2023
 - Postdoctoral Innovation Talents Support Program, 2023
 
----
-
 <a id="projects"></a>
 
 # Projects
@@ -253,8 +245,6 @@ She has received the Best Paper award at IEEE EDGE 2021 and the Distinguished Pa
 
 - National Natural Science Foundation of China, Principal Investigator
 - Postdoctoral General Fund, Principal Investigator
-
----
 
 <a id="services"></a>
 
@@ -265,8 +255,6 @@ She has received the Best Paper award at IEEE EDGE 2021 and the Distinguished Pa
 - Reviewer, ACM TIST
 - Reviewer, IEEE ICDCS 2024
 - Reviewer, IEEE ICWS 2024
-
----
 
 <a id="contact"></a>
 
