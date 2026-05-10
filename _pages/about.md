@@ -21,7 +21,7 @@ She has received the Best Paper award at IEEE EDGE 2021 and the Distinguished Pa
 <a id="news"></a>
 
 # News
-{: #News }
+{: #news }
 
 - **[2026]** One paper was accepted by *USENIX Security 2026*.
 - **[2025]** One paper was accepted by *USENIX ATC 2025*.
@@ -34,6 +34,7 @@ She has received the Best Paper award at IEEE EDGE 2021 and the Distinguished Pa
 <a id="publications"></a>
 
 # Publications
+{: #publications }
 
 ## Representative Publications
 
@@ -235,6 +236,7 @@ She has received the Best Paper award at IEEE EDGE 2021 and the Distinguished Pa
 <a id="awards"></a>
 
 # Awards
+{: #awards }
 
 - Best Paper Award, IEEE EDGE 2021
 - Distinguished Paper Award, ICSOC 2023
@@ -245,6 +247,7 @@ She has received the Best Paper award at IEEE EDGE 2021 and the Distinguished Pa
 <a id="projects"></a>
 
 # Projects
+{: #projects }
 
 - National Natural Science Foundation of China, Principal Investigator
 - Postdoctoral General Fund, Principal Investigator
@@ -254,6 +257,7 @@ She has received the Best Paper award at IEEE EDGE 2021 and the Distinguished Pa
 <a id="services"></a>
 
 # Professional Services
+{: #professional services }
 
 - Reviewer, IEEE TMC
 - Reviewer, ACM TIST
@@ -265,6 +269,7 @@ She has received the Best Paper award at IEEE EDGE 2021 and the Distinguished Pa
 <a id="contact"></a>
 
 # Contact
+{: #contact }
 
 School of Computer Science, Beijing University of Posts and Telecommunications  
 
