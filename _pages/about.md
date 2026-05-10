@@ -18,7 +18,7 @@ She has received the Best Paper award at IEEE EDGE 2021 and the Distinguished Pa
 
 <a id="news"></a>
 
-* * *
+---
 
 # News
 {: #news }
