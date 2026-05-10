@@ -1,9 +1,12 @@
 main:
   - title: "About"
     url: /
-
+    
   - title: "Publications"
     url: /#publications
+
+  - title: "News"
+    url: /#News
 
   - title: "Awards"
     url: /#awards
