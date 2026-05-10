@@ -21,6 +21,7 @@ She has received the Best Paper award at IEEE EDGE 2021 and the Distinguished Pa
 <a id="news"></a>
 
 # News
+{: #News }
 
 - **[2026]** One paper was accepted by *USENIX Security 2026*.
 - **[2025]** One paper was accepted by *USENIX ATC 2025*.
