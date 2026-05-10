@@ -1,11 +1,14 @@
 ---
 permalink: /
-title: "About me"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+# About me
+{: #about }
 
 Qing Li is an Associate Professor and Master’s/PhD supervisor at the School of Computer Science (National Demonstrative Software School), Beijing University of Posts and Telecommunications. She achieved her Ph.D. in Computer Science and Technology from BUPT in 2022, and from 2022 to 2024, she conducted postdoctoral research at Peking University. 
 
