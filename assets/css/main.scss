@@ -44,7 +44,8 @@
 
 /* Clean homepage section headings */
 .page__content h2,
-.page__content h3 {
+.page__content h3,
+.archive__subtitle {
   border-bottom: none !important;
   padding-bottom: 0 !important;
 }
