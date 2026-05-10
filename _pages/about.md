@@ -17,6 +17,18 @@ She has received the Best Paper award at IEEE EDGE 2021 and the Distinguished Pa
 
 ---
 
+<a id="news"></a>
+
+# News
+
+- **[2026]** One paper was accepted by *USENIX Security 2026*.
+- **[2025]** One paper was accepted by *USENIX ATC 2025*.
+- **[2025]** One paper was accepted by *IEEE Transactions on Mobile Computing (TMC)*.
+- **[2024]** One paper was accepted by *IEEE Real-Time Systems Symposium (RTSS 2024)*.
+- **[2024]** One paper was published in *IEEE Transactions on Services Computing (TSC)*.
+- **[2023]** Our paper received the Distinguished Paper Award at *ICSOC 2023*.
+- **[2023]** I was selected for the Postdoctoral Innovation Talents Support Program.
+
 <a id="publications"></a>
 
 # Publications
