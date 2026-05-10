@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-<a id="about"></a>
-
 Qing Li is an Associate Professor and Master’s/PhD supervisor at the School of Computer Science (National Demonstrative Software School), Beijing University of Posts and Telecommunications. She achieved her Ph.D. in Computer Science and Technology from BUPT in 2022, and from 2022 to 2024, she conducted postdoctoral research at Peking University. 
 
 Her main research interests include satellite computing system optimization and adaptive resource scheduling theory in edge computing. She has led projects funded by the National Natural Science Foundation of China and the Postdoctoral General Fund, and she was selected for the Postdoctoral Innovation Talents Support Program in 2023. 
