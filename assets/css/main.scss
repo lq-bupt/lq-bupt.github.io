@@ -1,51 +1,43 @@
----
----
-
-/*
- * This file controls what is imported from /_sass
- *
- * Note that the files are processed in the order they are imported, so they are partly
-   sorted by the dependencies. Also, the first two lines of the file are required by Jekyll.
- */
-
-@import
-    "vendor/breakpoint/breakpoint",
-
-    "themes",
-    "theme/{{ site.site_theme | default: 'default' | append: '_light' }}",
-    "theme/{{ site.site_theme | default: 'default' | append: '_dark' }}",
-
-    "include/mixins",
-    "vendor/susy/susy",
-
-    "layout/reset",
-    "layout/base",
-
-    "include/utilities",
-    "layout/tables",
-    "layout/buttons",
-    "layout/notices",
-    "layout/masthead",
-    "layout/navigation",
-    "layout/footer",
-    "syntax",
-
-    "layout/forms",
-
-    "layout/page",
-    "layout/archive",
-    "layout/sidebar",
-    "layout/json_cv",
-
     "vendor/font-awesome/fontawesome",
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
-   .page__content h1 {
-  margin-top: 2.5em;
-  margin-bottom: 0.8em;
+;
+
+/* Clean homepage section headings */
+.page__content h1,
+.page__content h2,
+.page__content h3 {
+  border-bottom: none !important;
+  padding-bottom: 0 !important;
 }
 
-.page__content h1:first-child {
+/* Hide Markdown horizontal rules inside the content area */
+.page__content hr {
+  display: none !important;
+}
+
+/* Spacing between homepage sections */
+.page__content h1 {
+  margin-top: 2.6em;
+  margin-bottom: 0.7em;
+}
+
+.page__content h1:first-of-type {
   margin-top: 0;
 }
-;
+
+.page__content h2 {
+  margin-top: 1.8em;
+  margin-bottom: 0.6em;
+}
+
+/* Make anchor jumps not hidden by the top navigation */
+.page__content h1,
+.page__content h2,
+.page__content h3 {
+  scroll-margin-top: 90px;
+}
+
+html {
+  scroll-behavior: smooth;
+}
