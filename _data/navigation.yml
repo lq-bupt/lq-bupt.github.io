@@ -1,6 +1,6 @@
 main:
   - title: "About"
-    url: /#About
+    url: /#about
 
   - title: "News"
     url: /#news
