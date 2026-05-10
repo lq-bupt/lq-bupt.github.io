@@ -238,9 +238,17 @@ She has received the Best Paper award at IEEE EDGE 2021 and the Distinguished Pa
 # Awards
 {: #awards }
 
-- Best Paper Award, IEEE EDGE 2021
-- Distinguished Paper Award, ICSOC 2023
-- Postdoctoral Innovation Talents Support Program, 2023
+- **IEEE TSC 2024 Best Paper Award**  
+  The only awardee among 324 papers, for the paper *Battery-Aware Energy Optimization for Satellite Edge Computing*.
+
+- **IEEE EDGE 2021 Best Paper Award**  
+  For the paper *Towards Sustainable Satellite Edge Computing*.
+
+- **ACM MobiCom 2025 Best Demo Runner-up Award**  
+  For the demo *Emulating Space Computing Networks with RHONE*.
+
+- **ICSOC 2023 Distinguished Paper Award**  
+  For the paper *Niagara: Scheduling DNN Inference Services on Heterogeneous Edge Processors*.
 
 <a id="projects"></a>
 
