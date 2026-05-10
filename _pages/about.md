@@ -233,7 +233,7 @@ She has received the Best Paper award at IEEE EDGE 2021 and the Distinguished Pa
 
 <a id="awards"></a>
 
-* * *
+---
 
 # Awards
 {: #awards }
@@ -244,7 +244,7 @@ She has received the Best Paper award at IEEE EDGE 2021 and the Distinguished Pa
 
 <a id="projects"></a>
 
-* * *
+---
 
 # Projects
 {: #projects }
@@ -254,7 +254,7 @@ She has received the Best Paper award at IEEE EDGE 2021 and the Distinguished Pa
 
 <a id="services"></a>
 
-* * *
+---
 
 # Professional Services
 {: #services }
@@ -266,11 +266,11 @@ She has received the Best Paper award at IEEE EDGE 2021 and the Distinguished Pa
 
 <a id="contact"></a>
 
-* * *
+---
 
 # Contact
 {: #contact }
 
 School of Computer Science, Beijing University of Posts and Telecommunications  
 
-Email: your_email@bupt.edu.cn
+Email: qingli@bupt.edu.cn
