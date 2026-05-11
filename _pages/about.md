@@ -37,7 +37,7 @@ Qing is an Associate Professor at the School of Computer Science, Beijing Univer
 1. **LPG: Raise Your Location Privacy Game in Direct-to-Cell LEO Satellite Networks**  
    Q. Shi, L. Wang, P. Gope, Q. Liang, H. Wang, Q. Liu, C. Xu, S. Wang, **Q. Li**, and B. Sikdar.  
    *USENIX Security Symposium*, 2026.  
-   **CCF A, Corresponding Author**  
+   **Corresponding Author**  
    [[PDF](https://www.usenix.org/system/files/conference/usenixsecurity26/sec26_prepub_shi.pdf){:target="_blank"}]
    [[Code](https://zenodo.org/records/18428501){:target="_blank"}]
 
