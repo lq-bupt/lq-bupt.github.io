@@ -42,8 +42,8 @@ Qing is an Associate Professor at the School of Computer Science, Beijing Univer
    [[Code](https://zenodo.org/records/18428501){:target="_blank"}]
 
 2. **Emulating Space Computing Networks with RHONE**  
-   L. Wang<sup>*</sup>, **Q. Li**<sup>*</sup>, Y. Zhou, Z. Luo, D. Zhang, S. Wang, X. Liu, and C. Xu.  
-   *USENIX Annual Technical Conference (USENIX ATC)*, 2025.  
+   L. Wang<sup>&#42;</sup>, **Q. Li**<sup>&#42;</sup>, Y. Zhou, Z. Luo, D. Zhang, S. Wang, X. Liu, and C. Xu.  
+   *USENIX ATC*, 2025.  
    **CCF A, Equal Contribution**  
    [[PDF](https://www.usenix.org/system/files/atc25-wang-liying.pdf){:target="_blank"}]
    [[Data](https://github.com/TiansuanConstellation/ATC25-RHONE-Data){:target="_blank"}]
