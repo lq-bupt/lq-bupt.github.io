@@ -29,10 +29,10 @@ Qing is an Associate Professor at the School of Computer Science, Beijing Univer
 
 <a id="publications"></a>
 
+---
+
 # Publications
 {: #publications }
-
-## Representative Publications
 
 1. **LPG: Raise Your Location Privacy Game in Direct-to-Cell LEO Satellite Networks**  
    Q. Shi, L. Wang, P. Gope, Q. Liang, H. Wang, Q. Liu, C. Xu, S. Wang, **Q. Li**, and B. Sikdar.  
